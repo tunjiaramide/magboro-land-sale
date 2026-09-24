@@ -35,10 +35,10 @@ claims.
   that some estate roads are still laterite. Copy says this plainly instead of overselling —
   the checklist claims from the original ad (good roads, electricity, drainage, etc.) are kept
   as the seller's stated facts, and the raw video lets buyers judge condition themselves.
-- **Cost transparency**: split "paid to the owner" (₦5M) from "paid to the developer" (survey
+- **Cost transparency**: split "paid to the owner" (₦4.55M) from "paid to the developer" (survey
   plan and deed documentation, both optional, ₦400k each; development levy, compulsory,
-  ₦950k). The headline total (₦5,950,000) is land + the compulsory levy only, with a footnote
-  giving the ₦6,750,000 figure if both optional fees are also paid — this was explicitly
+  ₦950k). The headline ₦5.5M asking price (₦5,500,000) is land + the compulsory levy only, with a footnote
+  giving the ₦6,300,000 figure if both optional fees are also paid — this was explicitly
   requested as the kind of thing that helps a buyer decide.
 - **Diaspora section**: added because the brief asked for buyers outside Nigeria to feel
   comfortable — documents-first review, video inspection, Power of Attorney route.
